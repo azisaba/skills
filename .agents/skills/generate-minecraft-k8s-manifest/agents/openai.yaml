@@ -1,0 +1,4 @@
+interface:
+  display_name: "[アジ鯖] Minecraft K8s Manifest生成"
+  short_description: "アジ鯖向けMinecraftサーバーのKubernetes manifestを生成"
+  default_prompt: "Use $generate-minecraft-k8s-manifest to generate an Azisaba Minecraft server Kubernetes manifest."

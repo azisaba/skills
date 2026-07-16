@@ -1,0 +1,4 @@
+interface:
+  display_name: "[アジ鯖] Resticバックアップ復元"
+  short_description: "アジ鯖のresticバックアップから安全に復元する"
+  default_prompt: "Use $restore-backup to restore a path from the Aji server restic backups."
